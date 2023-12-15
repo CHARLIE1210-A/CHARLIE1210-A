@@ -1,11 +1,17 @@
 [![MasterHead](https://img.freepik.com/free-vector/earth-view-night-from-alien-planet-neon-space_33099-1876.jpg?w=1380&t=st=1702671523~exp=1702672123~hmac=b4eb545532800124dac2caee158d03c924bbcdb18fbc851fbc9bf1b1f9553029)](https://github.com/CHARLIE1210-A)
-# 💫 About Me:
-- 🔭 I’m currently working on **Smart India Hackathon (SIH'23) project**
+<h1 align="center">Hi 👋, I'm Ashutosh</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Deep Learning And NLP**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charlie-1210-a&label=Profile%20views&color=0e75b6&style=flat" alt="charlie-1210-a" /> </p>
 
-- 💬 Ask me about **Fullstack,App Development,Python,Machine Learning ,etc.**
 
+  <h2>💫 About Me:</h2>
+<p>- 🔭 I’m currently working on <b><i>Smart India Hackathon (SIH'23) project</b></i><br>
+   - 📚 I’m currently learning<b><i> Deep Learning And NLP</b></i><br>
+  - 💬 Ask me about <b><i>Fullstack,App Development,Python,Machine Learning ,etc.</b></i><br>
+    - 🎲 I make sure to stay updated about the recent developments in technology and its adaptations within companies.</p>
+    
+###
 
 ## 🌐 Connect with ME :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.am_ashu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-singh-9b25221ab) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ashsingh) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/arnav0570) 
